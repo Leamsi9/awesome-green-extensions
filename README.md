@@ -1,6 +1,6 @@
-# awesome-green-extensions
-A list of climate friendly browser extensions and scripts that can help you reduce the carbon footprint of your internet consumption. 
-It is conceived as a valuable resource in its own right, and as Research and Development for the [Adora Foundation](adorafoundation.org)'s [Green Mode Design](ismaelvelasco.dev/series/green-mode-design) programme.
+# :deciduous_tree: awesome-green-extensions
+Welcome to this list of climate friendly browser extensions and scripts that can help you reduce the carbon footprint of your internet consumption! 
+It's conceived as a valuable resource in its own right, and as research and development for the [Adora Foundation](adorafoundation.org)'s [Green Mode Design](ismaelvelasco.dev/series/green-mode-design) programme.
 
 ## Contents
 
@@ -9,6 +9,11 @@ It is conceived as a valuable resource in its own right, and as Research and Dev
 - [Carbon offset generators](#carbon-offset-generators)
 - [Graceful degradation tools](#graceful-degradation-tools)
 
+## Contribute!
+We are always looking to grow this list, and we often have issues open for this project where a helping hand would be most appreciated by the team!
+To learn how you can contribute to this open source project, check out our contributors guide [here](/contributors-guide.md).
+
+***
 ## CO2 emissions trackers and green website raters
 
 ### Globemallow
